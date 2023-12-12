@@ -1,5 +1,5 @@
 Feature: Страница авторизации Яндекс ID, вход с помощью "логин или email"
-
+# For PR
   Background: Открыли страницу https://passport.yandex.ru/auth?origin=market_desktop_header
     And Нажата кнопка "Почта"
     And Имеется созданный Яндекс ID с логином "iLoveQA123" и пароль "admin123"
